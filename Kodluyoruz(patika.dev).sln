@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TipDonusumleri", "TipDonusu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HataYonetimi", "HataYonetimi\HataYonetimi.csproj", "{587CDA5E-7A7A-40D2-9D7B-60DB07D92D70}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfElseYapisi", "IfElseYapisi\IfElseYapisi.csproj", "{C60DC107-6E17-4B76-99A2-06113EBAE5ED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{587CDA5E-7A7A-40D2-9D7B-60DB07D92D70}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{587CDA5E-7A7A-40D2-9D7B-60DB07D92D70}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{587CDA5E-7A7A-40D2-9D7B-60DB07D92D70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C60DC107-6E17-4B76-99A2-06113EBAE5ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C60DC107-6E17-4B76-99A2-06113EBAE5ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C60DC107-6E17-4B76-99A2-06113EBAE5ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C60DC107-6E17-4B76-99A2-06113EBAE5ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
